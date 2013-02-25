@@ -9,4 +9,16 @@
    :date "2013-06-14"}
   {:name "OOPSLA Research Paper"
    :url "http://splashcon.org/2013/cfp/618"
-   :date "2013-03-28"}])
+   :date "2013-03-28"}
+  {:name "Onward! Research Papers"
+   :url "http://splashcon.org/2013/cfp/due-april-05-2013/647-onward-research-papers"
+   :date "2013-04-05"}
+  {:name "Onward! Essays"
+   :url "http://splashcon.org/2013/cfp/due-april-10-2013/662-onward-essays"
+   :date "2013-04-10"}
+  {:name "International Conference on Generative Programming"
+   :url "http://splashcon.org/2013/cfp/641"
+   :date "2013-06-14"}
+  {:name "IEEE Symposium on Visual Languages"
+   :url "https://sites.google.com/site/vlhcc2013/submitting"
+   :date "2013-03-01"}])
