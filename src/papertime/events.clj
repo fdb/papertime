@@ -21,4 +21,13 @@
    :date "2013-06-14"}
   {:name "IEEE Symposium on Visual Languages"
    :url "https://sites.google.com/site/vlhcc2013/submitting"
-   :date "2013-03-01"}])
+   :date "2013-03-01"}
+  {:name "Information Visualisation"
+   :url "http://www.graphicslink.co.uk/IV2013/"
+   :date "2013-03-01"}
+  {:name "EuroVis 2013"
+   :url "http://www.eurovis2013.de/"
+   :date "2013-03-08"}
+  {:name "IEEE Vis 2013"
+   :url "http://ieeevis.org/"
+   :date "2013-03-21"}])
